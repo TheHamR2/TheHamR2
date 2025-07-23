@@ -8,13 +8,11 @@
 ---
 
 ### 👨‍🎓 About Me
-
-- 💻 4th year student at **Polytech Tours**, France  
-- 🎓 Engineering degree in Computer Science expected **2026**  
-- 💡 Passionate about **.NET**, **React**, **Java**, and **network/system administration**  
-- 📍 Based in **Tours, France**
+Currently a 💻 4th year student in  Engineering degree in Computer Science at **Polytech Tours**, I am passionate about **.NET**, **React**, **Java**, and **network/system administration**. Hardworking, diligent and extremely motivated I am well-versed in programming and have proven ability in computer networking. Whether it’s building a full-stack application from scratch or conducting a deep dive into cutting-edge technologies, I constantly seek opportunities to learn, improve, and solve real-world problems through tech.
 
 ---
+
+Here you can find different work and projects that I am proud to share, and that help me grow my knowledge.
 
 ### 💼 Work Experience
 
@@ -46,7 +44,7 @@
 
 | Programming Languages | Web Technologies           | System & Network Tools                 | Databases             |
 |-----------------------|----------------------------|----------------------------------------|-----------------------|
-| Java, C, C++, C#, Python | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
+| <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJava_%2528technique%2529&psig=AOvVaw3jtPOv8yEjc2JrZxGn7ENG&ust=1753360016794000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOistZb90o4DFQAAAAAdAAAAABAE)" width="300">, C, C++, C#, Python | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
 
 ---
 
