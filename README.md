@@ -2,8 +2,8 @@
 <h3 align="center">Computer Science Engineering Student · Dev & Network Enthusiast · Team Player</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> 
 </p>
 
 ---
