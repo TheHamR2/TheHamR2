@@ -44,8 +44,7 @@ Here you can find different work and projects that I am proud to share, and that
 
 | Programming Languages | Web Technologies           | System & Network Tools                 | Databases             |
 |-----------------------|----------------------------|----------------------------------------|-----------------------|
-|<img width="200" height="888" alt="image" src="https://github.com/user-attachments/assets/6d472a45-acb3-4d08-8314-03ada9d2d46a" />
-, C, C++, C#, Python | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
+|<img width="20" height="708" alt="image" src="https://github.com/user-attachments/assets/6d472a45-acb3-4d08-8314-03ada9d2d46a" /> , C, C++, C#, Python | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
 
 ---
 
