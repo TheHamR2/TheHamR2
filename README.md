@@ -44,9 +44,7 @@ Here you can find different work and projects that I am proud to share, and that
 
 | Programming Languages | Web Technologies           | System & Network Tools                 | Databases             |
 |-----------------------|----------------------------|----------------------------------------|-----------------------|
-|<img width="20" height="123" alt="image" src="https://github.com/user-attachments/assets/44d3fb8a-2061-4d3f-aa89-d4948bacb261" />,<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fa6d8985-bc25-47e1-a96b-e48697276e8b" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3b2e2f47-49d0-4881-9f59-2edd079fc283" />
-
- C++, C#, Python | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
+|<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b7f9eeef-2245-481a-a144-a8d24d7a7433" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fa6d8985-bc25-47e1-a96b-e48697276e8b" /> <img width="30" height="133" alt="image" src="https://github.com/user-attachments/assets/44d3fb8a-2061-4d3f-aa89-d4948bacb261" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b49f1cdc-ca22-441c-bcbc-be4ebfeac8f5" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5df52d0f-5d30-42a7-8bc4-0f4541b5ecf7" /> | HTML, CSS, Vue.js, React, Angular, PHP, Firebase, Spring Boot, REST API | Linux, Windows Server, Active Directory, Wireshark, pfSense | PostgreSQL, MySQL, SQL |
 
 ---
 
