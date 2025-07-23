@@ -11,7 +11,6 @@
 
 - 💻 4th year student at **Polytech Tours**, France  
 - 🎓 Engineering degree in Computer Science expected **2026**  
-- 🎯 Seeking a **1-year professional work contract** starting **September 2025**  
 - 💡 Passionate about **.NET**, **React**, **Java**, and **network/system administration**  
 - 📍 Based in **Tours, France**
 
