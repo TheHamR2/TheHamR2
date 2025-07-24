@@ -13,34 +13,6 @@ Currently a 💻 4th year student in  Engineering degree in Computer Science at 
 
 ---
 
-Here you can find different work and projects that I am proud to share, and that help me grow my knowledge.
-
-### 💼 Work Experience
-
-#### 👨‍💻 Engineering Intern — *Bouygues Telecom Business*
-📅 March 2025 – Present  
-- Built a document conversion app using **.NET and React.js**  
-- Managed image storage using **Azure Blob Storage**  
-- Wrote **unit tests with xUnit**  
-- Used **GitHub** for version control and collaboration  
-- Wrote technical documentation
-
-#### 🎮 Network Battleship Game Project — *Polytech Tours*
-📅 Sept 2023 – Jan 2024  
-- Built a multiplayer game in **Java** with GUI and local network play  
-- Implemented **client-server communication via sockets**  
-- Developed a bot opponent  
-- Followed best practices: modular code, unit & integration tests, full documentation
-
-#### 🖥️ IT Intern — *Université Grenoble Alpes (IM2AG)*
-📅 May – July 2022  
-- Set up Linux (Ubuntu) image deployment processes  
-- Researched and tested tools like **Clonezilla, FOG, PXE, WAPT, Chocolatey**  
-- Wrote technical comparisons and documentation  
-- Worked with **network and system administration tools**
-
----
-
 ### 🧰 Technical Skills
 
 | Programming Languages | Web Technologies           | System & Network Tools                 | Databases             |
