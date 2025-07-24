@@ -29,17 +29,6 @@ Currently a 💻 4th year student in  Engineering degree in Computer Science at 
 
 ---
 
-### 💡 Soft Skills
-
-- 🤝 Teamwork
-- 🎨 Creativity
-- 🧠 Fast Learner
-- ✍️ Technical Writing
-- 🔍 Detail-Oriented
-- 🧑‍💼 Adaptability & Autonomy
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
