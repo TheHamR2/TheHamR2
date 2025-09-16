@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍🎓 About Me
-Currently a 💻 4th year student in  Engineering degree in Computer Science at **Polytech Tours**, I am passionate about **.NET**, **React**, **Java**, and **network/system administration**. Hardworking, diligent and extremely motivated I am well-versed in programming and have proven ability in computer networking. Whether it’s building a full-stack application from scratch or conducting a deep dive into cutting-edge technologies, I constantly seek opportunities to learn, improve, and solve real-world problems through tech.
+Currently a 💻 5th year student in  Engineering degree in Computer Science at **Polytech Tours**, I am passionate about **.NET**, **React**, **Java**, and **network/system administration**. Hardworking, diligent and extremely motivated I am well-versed in programming and have proven ability in computer networking. Whether it’s building a full-stack application from scratch or conducting a deep dive into cutting-edge technologies, I constantly seek opportunities to learn, improve, and solve real-world problems through tech.
 
 ---
 
